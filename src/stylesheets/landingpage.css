@@ -1,0 +1,37 @@
+body{
+    background: #343a402e;
+
+}
+
+.mainpage{
+    background: #343a402e;
+}
+ .cardpage {
+    background: #fff;
+    position: relative;
+    top:40px;
+    bottom: 20px;
+}
+
+.mainpage .cardpage .cardcontain {
+    background: #fff;
+    width: 100%;
+    margin-left: 55px;
+    margin-top: 30px;
+    box-shadow: 0 5px 20px 0px #6c757dfa, 0 13px 24px -11px #495057d6;
+
+}
+
+.mainpage .cardpage .cardcontain .productimg{
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.mainpage .cardpage .cardcontain button{
+   
+    margin-bottom: 10px;
+    border-radius: 0px;
+    padding: 3px 10px;
+}
+
